@@ -1,4 +1,4 @@
-package com.cummins.DMUtilities;
+package com.amarpandey.sample;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
